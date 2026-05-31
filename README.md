@@ -37,7 +37,7 @@ let products = [
   "https://i.ibb.co/DgmpHdpn/phone.png", desc: "Apple iPhone 17 pro Max 5G  6.9-12GB RAM-512 ROM Nano SIM-Cosmic Orange"},  
     
   {name: "Laptop", price: 1000, img:"https://i.ibb.co/KjrSfDwH/laptop.png", desc: "Laptoptouchscreen"},  
-  {name: "Dog", price: 500, img: "https://i.ibb.co/TBJBdGLJ/dog.png", desc: "Pet Dog"},  
+ 
   {name: "Headset", price: 70, img: "https://i.ibb.co/9PWdJyZ/headset.png", desc: "Headset"},  
  {name: "House", price:18, img:  "https://i.ibb.co/ymB6pQc8/house.png", desc: "Home forsale"},{name: "Car", price: 12, img: "https://i.ibb.co/zhgndDdj/car.png", desc: "Lexus Jeep for sale"},  
  {name: "Phone", price: 700, img: "https://i.ibb.co/TDVgKY6m/phone.png", desc: "Smartphone"},  
